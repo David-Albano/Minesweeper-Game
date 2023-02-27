@@ -2,6 +2,8 @@
 
 Este programa está desarrollado en Python y utiliza la biblioteca gráfica tkinter para ejecutar el juego de Minesweeper.
 
+![](./preview/preview.gif)
+
 **Requisitos:**
 
 - Python 3
